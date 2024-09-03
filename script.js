@@ -1,4 +1,3 @@
-//your JS code here. If required.
 function enterBtn() {
     // Get the paragraph element with the id "status"
     const para = document.getElementById("status");
